@@ -1,4 +1,0 @@
-print("Hello world ")
-print("Hello everebody ")
-print("Hello me ")
-print("Hello friends ")
